@@ -1,0 +1,11 @@
+{
+  "name": "sam-toast",
+  "version": "0.0.1",
+  "description": "A toast element build by using custome element ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sumit ingole <gsumitingole@gmail.com>",
+  "license": "MIT"
+}
